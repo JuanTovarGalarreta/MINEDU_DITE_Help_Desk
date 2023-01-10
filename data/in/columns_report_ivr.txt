@@ -1,0 +1,10 @@
+CDR_name,report_name
+dateTimeConnect_date,Fecha
+dateTimeConnect_hour,Hora
+callingPartyNumber,Num Origen
+Dur_timbrado_seconds,DurTimbrado_seg
+Dur_timbrado_time,DurTimbrado
+tipo_resp,Tipo de Respuesta
+Disconnect_Connect_seconds,DuracionLlamada_seg
+Disconnect_Connect_time,DuracionLlamada
+Telf_DIED,Telf.DIED

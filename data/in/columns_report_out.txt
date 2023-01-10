@@ -1,0 +1,11 @@
+CDR_name,report_name
+dateTimeConnect_date,Fecha
+dateTimeConnect_hour,Hora
+Anexo,Anexo
+NOMBRE DE AGENTE,Nombre Empleado
+finalCalledPartyNumber,Numero
+Dur_timbrado_time,Tiempo Timbrado
+tipo_resp,Tipo Resp Llamada
+Disconnect_Connect_time,Duracion Real
+Disconnect_Connect_seconds,Duracion Llamada
+Global,Global
