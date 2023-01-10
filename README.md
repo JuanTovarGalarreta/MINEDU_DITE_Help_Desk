@@ -1,2 +1,4 @@
 # MINEDU_DITE_Help_Desk
 Automatization for dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiYzI3OTA0YzItZGU5Yi00MGEzLWE2ZjItODAyMzY4YTg4NDdhIiwidCI6IjE3OWJkZGE4LWQ5NjQtNDNmZi1hZDNiLTY3NDE4NmEyZmEyOCIsImMiOjR9&pageName=ReportSection
